@@ -16,6 +16,6 @@ public class MoveTester
 
         System.out.print("y: ");
         System.out.println(box.getY());
-        System.out.print("Expected: 35");
+        System.out.println("Expected: 35");
     }
 }
